@@ -29,6 +29,39 @@
 
 ```bash
 git clone https://github.com/piyush-eon/mern-chat-app
+```
+
+2. **Go to the Project Directory**
+
+```bash
+cd mern-chat-app
+```
+
+3. **Install Backend Dependencies**
+
+```bash
+npm install
+```
+
+4. **Install Frontend Dependencies**
+
+```bash
+cd frontend
+npm install
+```
+
+5. **Start the Backend Server**
+
+```bash
+npm run start
+```
+
+6. **Start the Frontend App (in a new terminal)**
+
+```bash
+cd frontend
+npm start
+```
 
 # OUTPUT
 
