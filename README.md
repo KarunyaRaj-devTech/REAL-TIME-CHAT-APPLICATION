@@ -65,9 +65,9 @@ npm start
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/0b16276f-4ee2-485c-9123-0a080da3a373)
+![Image](https://github.com/user-attachments/assets/7cc850df-d840-4f4f-a101-add82ddda1d5)
 
-![Image](https://github.com/user-attachments/assets/233f51e6-1769-463b-b505-5df67c5db678)
+![Image](https://github.com/user-attachments/assets/7dbf8425-e845-4433-b497-f2391ce3f5cf)
 
 ![Image](https://github.com/user-attachments/assets/68a237e4-ae1e-4b69-9283-94825404b580)
 
