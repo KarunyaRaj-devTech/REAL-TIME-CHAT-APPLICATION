@@ -16,14 +16,14 @@
 
 **Talk-a-tive** is a full-stack real-time chat application built with the MERN stack. It uses **Socket.IO** for real-time messaging and stores user information securely in a **MongoDB** database with encryption.
 
-## 🛠 Technology Used
+## Technology Used
 
 - **Frontend**: React JS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Real-Time**: Socket.IO
 
-## 🚀 How to Run Locally
+## Execution
 
 1. **Clone the Repository**
 
